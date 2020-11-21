@@ -1,0 +1,32 @@
+.nav-logo{
+    margin-top: 0.7rem;
+}
+
+.nav-list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding-top: 0.2rem;
+}
+.nav-item{
+    margin: 0 0.5rem;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.nav-item:hover, .btn:hover{
+    cursor: pointer;
+}
+.nav-item-btn{
+    margin-left: auto;
+}
+.btn{
+    outline: none;
+    border: none;
+    color: #fff;
+    background-color: red;
+    font-size: 1rem;
+    padding: 0.7rem;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
