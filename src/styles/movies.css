@@ -1,0 +1,8 @@
+.caro{
+    width: 180px;
+    height: 250px;
+    border-radius: 5%;
+}
+.rec-dot{
+    display: none;
+}
